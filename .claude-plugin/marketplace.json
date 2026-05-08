@@ -1,0 +1,17 @@
+{
+  "name": "olioskar-marketplace",
+  "owner": {
+    "name": "Olafur O. Egilsson",
+    "url": "https://github.com/olioskar"
+  },
+  "plugins": [
+    {
+      "name": "comb",
+      "source": {
+        "source": "github",
+        "repo": "olioskar/comb-the-desert-claude-plugin"
+      },
+      "description": "Comb the Desert: review → plan → fix pipeline for code review with configurable agents and authoritative project directives."
+    }
+  ]
+}
