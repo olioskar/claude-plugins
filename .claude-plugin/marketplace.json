@@ -8,8 +8,8 @@
     {
       "name": "comb",
       "source": {
-        "source": "github",
-        "repo": "olioskar/comb-the-desert-claude-plugin"
+        "source": "url",
+        "url": "https://github.com/olioskar/comb-the-desert-claude-plugin.git"
       },
       "description": "Comb the Desert: review → plan → fix pipeline for code review with configurable agents and authoritative project directives."
     }
